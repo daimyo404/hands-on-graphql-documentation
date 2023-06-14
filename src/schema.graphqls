@@ -1,21 +1,18 @@
 """
-*Italic*
-
 **Bold**
-
+  
 # Header1
+テキスト1
   
 ## Header2
+テキスト2
   
 ### Header3
+テキスト3
   
 - List1
 - List2
 - List3
-  
-1. Numbered list1
-2. Numbered list2
-3. Numbered list3
   
 > Blockquote
   
