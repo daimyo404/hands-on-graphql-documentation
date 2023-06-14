@@ -1,1 +1,0 @@
-# hands-on-graphql-documentation
